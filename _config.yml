@@ -18,8 +18,8 @@ defaults:
 topics:
   - name: Robots
     web_url: https://www.fanuc.eu/
-    image_url: https://www.fanuc.eu/~/media/corporate/sections/nav-fanuc-logo.png
-    
+    image_url: https://www.fanuc.eu/~/media/corporate/sections/icons/nav-robots.png?h=65&la=en&w=65
+
   - name: GO
     web_url: https://github.com/topics/go
     image_url: https://raw.githubusercontent.com/github/explore/424902f9441eeb28663ad3f45e25398ac3445c79/topics/go/go.png
